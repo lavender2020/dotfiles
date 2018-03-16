@@ -1,3 +1,7 @@
+[user]
+        name=lavender.geng
+	email=gengxd@foxmail.com
+	
 [alias]
 	c = commit -am
 	fpush = push --force
